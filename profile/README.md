@@ -4,4 +4,11 @@ More comprehensive and more predictive models have the potential to advance biol
 
 ### More information
 - Home page: https://biosimulators.org
+- REST API: https://api.biosimulators.org
+- Docker images: https://github.com/orgs/biosimulators/packages
+- Command-line programs: https://pypi.org/user/biosimulators
+- Python APIs: https://pypi.org/user/biosimulators
+- Tutorials: https://tutorial.biosimulators.org
 - Documentation: https://docs.biosimulations.org
+- Example simulation projects: https://github.com/biosimulators/Biosimulators_test_suite/tree/dev/examples
+- Template for simulation tools: https://github.com/biosimulators/Biosimulators_simulator_template
